@@ -1,0 +1,36 @@
+.images{
+    background-color: darkcyan;
+    border: 10px solid burlywood;
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 40px 10px;
+}
+img{width: 800px;
+    border-radius: 30px;    
+}
+h2{
+background-color: white;
+border-radius: 20px;
+}
+#mc{
+text-align: center;
+}
+p.whiteline{
+background-color: white;
+color: black;
+padding: 5px;
+text-align: center;
+border-radius: 30px;
+margin-left: 20%;
+margin-right: 20%;
+
+}
+.id{
+text-align: center;
+color: white;
+}
+#whitemark{
+text-align: center;
+color: white;
+}
